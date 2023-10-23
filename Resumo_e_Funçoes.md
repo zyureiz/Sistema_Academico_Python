@@ -1,4 +1,4 @@
-Esse algoritmo feito em python, é possivel simular:
+# Esse algoritmo feito em python, é possivel simular:
 
 - Um sistemas de nota de faculdade, no caso, usei os nomes da minha em questão.
 - Definir a aprovação ou reprovação do aluno por meio da média de 4 notas.
