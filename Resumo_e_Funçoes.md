@@ -7,4 +7,4 @@
 - Caso tenha ido para recuperação, o algoritmo permite que você calcule sua média usando a nota da avaliação de recuperação.
 
 
-  Eu adoraria sugestões de otimizações e dicas, obrigado.
+  - Eu adoraria sugestões de otimizações e dicas, obrigado.
